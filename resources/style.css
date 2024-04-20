@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'americanaregular';
+    src: url('cnttqn.net_utm_americana-webfont.woff2') format('woff2'),
+         url('cnttqn.net_utm_americana-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'motherland_signature';
+    src: url('nvn-motherland-signature-webfont.woff2') format('woff2'),
+         url('nvn-motherland-signature-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'centuryregular';
+    src: url('century-webfont.woff2') format('woff2'),
+         url('century-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body
+{
+    font-family: 'americanaregular', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    background-color: #FFF8E7 !important;
+} 
+h1
+{
+    text-align: center;
+    font-family: 'motherland_signature', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+p
+{
+    font-family: 'americanaregular', Arial, sans-serif; 
+    text-align: center;
+    font-size: 30px;
+}
+.quote
+{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'motherland_signature', Arial, sans-serif;
+}
+.source
+{
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'americanaregular', Arial, sans-serif;
+}
+.time
+{
+    text-align: center; 
+    font-size: 50px;
+    font-family: 'centuryregular', Arial, sans-serif;
+    font-weight: 900;
+    color: #876751;
+}
+.col-md-2
+{
+    text-align: center; 
+    font-size: 50px;
+    font-family: 'motherland_signaturer', Arial, sans-serif;
+}
+footer
+{
+    text-align: center;
+    
+}
