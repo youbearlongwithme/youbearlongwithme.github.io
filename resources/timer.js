@@ -8311,7 +8311,7 @@ exports.Zone = Zone;
 
 },{}],2:[function(require,module,exports){
 const { DateTime } = require("luxon");
-var saveTheDate = DateTime.fromISO("2024-05-02T11:30:00+07:00");
+var saveTheDate = DateTime.fromISO("2024-05-02T12:00:00+07:00");
 
 var countDown = setInterval(function(){
 var now = DateTime.local();
